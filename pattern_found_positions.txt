@@ -1,0 +1,17 @@
+Found pattern: 011110000
+Pattern found at the following X positions (0-based index adjusted):
+X43
+X585
+X1196
+X1341
+X2547
+X3782
+X4473
+X4683
+X4933
+X5721
+X5878
+X7520
+X7676
+X9138
+X9437
