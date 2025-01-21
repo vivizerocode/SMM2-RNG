@@ -1,0 +1,66 @@
+Start X: X271 | Last X: X273 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 0, 1, 2, 7, 3, 3, 6, 7, 0, 6
+
+Start X: X794 | Last X: X796 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 3, 2, 7, 6, 4, 4, 6, 3, 4, 0
+
+Start X: X1307 | Last X: X1309 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 4, 2, 7, 4, 4, 1, 6, 6, 5, 2
+
+Start X: X1350 | Last X: X1352 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 2, 3, 1, 5, 6, 0, 6, 7, 6, 7
+
+Start X: X1761 | Last X: X1763 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 3, 0, 2, 1, 5, 0, 6, 7, 5, 3
+
+Start X: X2624 | Last X: X2626 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 0, 3, 6, 2, 3, 6, 6, 1, 7, 5
+
+Start X: X2972 | Last X: X2974 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 0, 3, 1, 4, 1, 7, 6, 2, 6, 7
+
+Start X: X4121 | Last X: X4123 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 2, 7, 3, 6, 5, 3, 6, 7, 3, 7
+
+Start X: X4360 | Last X: X4362 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 0, 3, 4, 1, 6, 5, 6, 3, 7, 1
+
+Start X: X4447 | Last X: X4449 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 4, 1, 2, 3, 5, 0, 6, 6, 0, 0
+
+Start X: X5116 | Last X: X5118 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 1, 7, 1, 0, 0, 5, 6, 0, 5, 4
+
+Start X: X5325 | Last X: X5327 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 1, 0, 1, 3, 4, 4, 6, 3, 0, 3
+
+Start X: X5896 | Last X: X5898 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 1, 1, 1, 6, 5, 0, 6, 5, 7, 6
+
+Start X: X5927 | Last X: X5929 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 1, 0, 7, 0, 6, 3, 6, 3, 0, 5
+
+Start X: X6184 | Last X: X6186 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 3, 2, 1, 6, 6, 2, 6, 7, 0, 1
+
+Start X: X7488 | Last X: X7490 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 5, 2, 6, 6, 4, 6, 6, 2, 5, 2
+
+Start X: X7506 | Last X: X7508 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 2, 1, 6, 3, 0, 2, 6, 5, 5, 6
+
+Start X: X8128 | Last X: X8130 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 7, 7, 4, 0, 0, 5, 6, 7, 2, 5
+
+Start X: X8421 | Last X: X8423 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 7, 7, 5, 4, 4, 0, 6, 0, 1, 7
+
+Start X: X8602 | Last X: X8604 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 7, 4, 6, 3, 1, 3, 6, 0, 1, 1
+
+Start X: X8874 | Last X: X8876 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 3, 7, 0, 0, 3, 5, 6, 2, 5, 7
+
+Start X: X8890 | Last X: X8892 | Sequence: Mushroom, Red Koopa, Coin
+Predicted next 10 entities: 6, 0, 7, 1, 0, 4, 6, 5, 7, 6
+
