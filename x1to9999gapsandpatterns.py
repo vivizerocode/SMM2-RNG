@@ -22,7 +22,7 @@ with open(output_file, 'w') as file:
         if i == 1:
             bounce_value = (state3 * A1) >> shift_amount
             bounce_direction = '1' if bounce_value & 1 else '0'
-            file.write(f"X{i}: {state3} {bounce_direction}\n")
+            file.write(f"X{i}: {bounce_direction}\n")
         else:
             next_state = rng(state0, state1, state2, state3)
         
@@ -31,7 +31,7 @@ with open(output_file, 'w') as file:
         
             bounce_direction = '1' if bounce_value & 1 else '0'
         
-            file.write(f"X{i}: {next_state} {bounce_direction}\n")
+            file.write(f"X{i}: {bounce_direction}\n") # next state was removed because it is so difficult to search after those nums i guess
         
             state0, state1, state2, state3 = state1, state2, state3, next_state
 
